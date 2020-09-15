@@ -1,3 +1,4 @@
+Gener3ALexanderCarlosFernando Fulitod Timbol
 ---
 title: "K3s - Lightweight Kubernetes"
 shortTitle: K3s
